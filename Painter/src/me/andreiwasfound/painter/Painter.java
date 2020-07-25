@@ -36,7 +36,7 @@ public class Painter extends JavaPlugin {
 	public boolean hasPainters() {
 		if (painters.isEmpty())
 			return false;
-		return false;
+		return true;
 	}
 
 }
